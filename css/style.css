@@ -11,6 +11,7 @@
 
 
 * {
+	box-sizing: border-box;
 	font-family: 'Lato', Sans-Serif;
 	font-size: 16px;
 }
@@ -44,6 +45,7 @@ header {
 	min-height: 40vh;
 	text-align:center;
 	padding-bottom: 40px;
+	width: 100%;
 } 
 
 .logo {
@@ -61,22 +63,58 @@ a:hover {
 }
 
 p { margin-top: 0; }
-header, main { margin: 0 60px; }
+header, main { margin: 0; }
+
+nav {
+	min-height: 60px;
+	background-color: #b46b66;
+	color: #f8f0db;
+}
+
+nav {
+	margin: 0;
+	list-style-type: none;
+	display: grid; 
+	grid-template-columns: 1fr;
+	justify-content: flex-end;
+	width: 100%;
+}
+nav ul {
+	list-style-type: none;
+	text-align: right;
+	padding-right: 60px;
+}
+nav li { display: inline; }
+nav a {
+	color: #f8f0db;
+	margin-left: 16px;
+}
+nav a:hover {color: #c0c976;}
+
+nav a.button { background-color: #c0c976; margin-bottom:0; }
 
 main { 
+	width: 100%;
 	display: grid;
 	grid-template-columns: 3fr 1fr;
-	padding-bottom: 20px;
+	padding: 60px 0 20px 40px;
+	background-image: url(../images/sumner-mahaffey-7Y0NshQLohk-unsplash.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
 }
 
 section {
 	display: grid;
-	grid-template-columns: 1fr 1fr;
+	grid-template-columns: 1fr 2fr;
 	grid-gap: 1.6em;
+	margin-right: 20px;
 }
 aside {
 	background-image: url(../images/swirl_pattern.png);
 	padding: 20px;
+	margin-right: 2em;
+	margin-top: -60px;
 }
 aside ul { 
 	list-style-type: none; 
@@ -90,6 +128,7 @@ a.button {
 	padding: 10px 12px;
 	background-color: #b46b66;
 	color: #fff;
+	margin-bottom: 30px;
 }
 
 a.button:hover {
