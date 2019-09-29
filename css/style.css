@@ -1,3 +1,105 @@
 /* Styles */
 
 
+/* Colors */
+/* blue grey #62797f */
+/* light green #e4ddc9 */
+/* middle green #63695d */
+/* light tan #e4ddc9; */
+/* middle tan #b3ae9e; */
+/* rose red #b46b66; */
+
+
+* {
+	font-family: 'Lato', Sans-Serif;
+	font-size: 16px;
+}
+
+body {
+	background-color: #e4ddc9;
+	/* #b3ae9e; */
+	color: #4b4b4b;
+}
+h1, h2, h3, h4, .button {
+	font-family: 'Arvo', Serif;
+	margin-top: 0;
+}
+
+h1 {	
+	font-size: 2.6em;
+	margin-top: 20vh;
+	text-align: center;
+}
+h2 {	
+	font-size: 2em;
+}
+h3 {	
+	font-size: 1.6em;
+}
+h4 {	
+	font-size: 1.4em;
+}
+
+header {
+	min-height: 40vh;
+	text-align:center;
+	padding-bottom: 40px;
+} 
+
+.logo {
+	border-radius: 50%;
+	width: 200px;
+}
+
+a {
+	color: #63695d;
+	text-decoration: none;
+}
+
+a:hover { 
+	color: #b46b66;
+}
+
+p { margin-top: 0; }
+header, main { margin: 0 60px; }
+
+main { 
+	display: grid;
+	grid-template-columns: 3fr 1fr;
+	padding-bottom: 20px;
+}
+
+section {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 1.6em;
+}
+aside {
+	background-image: url(../images/swirl_pattern.png);
+	padding: 20px;
+}
+aside ul { 
+	list-style-type: none; 
+	padding-left: .8em;
+}
+
+aside ul.books li { margin-bottom: .6em; }
+a.button {
+	display: inline-block;
+	min-width: 80px;
+	padding: 10px 12px;
+	background-color: #b46b66;
+	color: #fff;
+}
+
+a.button:hover {
+	background-color: #63695d;
+}
+
+footer {
+	background-color: #878f7f;
+	width: 100%;
+	min-height: 60px;
+	padding: 20px;
+}
+footer p { color: #fff; }
