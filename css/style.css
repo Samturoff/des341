@@ -106,25 +106,27 @@ main {
 	width: 100%;
 	display: grid;
 	grid-template-columns: 3fr 1fr;
-	padding: 60px 0 20px 40px;
+}
+
+section.one {	
 	background-image: url(../images/sumner-mahaffey-7Y0NshQLohk-unsplash.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 50% 50%;
 }
-
 main li {margin-bottom: 10px;}
 section {
 	display: grid;
 	grid-template-columns: 1fr 2fr;
 	grid-gap: 1.6em;
-	margin-right: 20px;
+	margin-right: 0px;
+	padding: 40px;
+
 }
 aside {
 	background-image: url(../images/swirl_pattern.png);
 	padding: 20px;
 	margin-right: 2em;
-	margin-top: -60px;
 }
 aside ul { 
 	list-style-type: none; 
