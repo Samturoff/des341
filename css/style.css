@@ -123,6 +123,8 @@ section {
 	padding: 40px;
 
 }
+
+article img {width: 100%;}
 aside {
 	background-image: url(../images/swirl_pattern.png);
 	padding: 20px;
