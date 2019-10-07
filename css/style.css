@@ -71,6 +71,7 @@ p {
 	line-height: 1.4em;
 }
 
+strong {text-transform: uppercase;}
 header, main { margin: 0; }
 
 nav {
@@ -146,6 +147,7 @@ a.button:hover {
 	background-color: #63695d;
 }
 
+.showntell {width: 100%;}
 footer {
 	background-color: #878f7f;
 	width: 100%;
