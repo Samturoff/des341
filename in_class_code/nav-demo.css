@@ -1,0 +1,54 @@
+/*body { background-image: url(../images/circle-boat.jpeg); }
+*/
+
+body {background-color: antiquewhite;}
+a { text-decoration: none; }
+
+a:hover { color: purple; }
+
+h1 { 
+	font-size: 100px;
+	font-weight: bold;
+	color: transparent;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+ }
+
+nav ul {
+	list-style-type: none;
+	min-height: 100px;
+	background-color: antiquewhite;
+	min-width: 500px;
+}
+
+nav li { 
+	display: inline-block;
+	margin-right: 40px;
+	margin-top:40px;
+	text-transform: uppercase;
+	padding: 16px;
+	border: 1px solid black;
+}
+
+
+header {
+	display: grid;
+	grid-template-columns: 40% 60%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+body { 
+
+	background-image: url(../images/circle-boat.jpeg); 
+	background-size: cover;
+	background-position: 20% 50%;
+}
+
+.floating-text {
+	position: relative;
+}
+
+.floating-text article {
+	position: absolute;
+	right: 40vw;
+	top: 20vh;
+	width: 160px;
+	min-height: 200px;
+	background-color: goldenrod;
+	display: inline-block;
+	padding: 20px;
+}
