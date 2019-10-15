@@ -1,0 +1,35 @@
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>CSS Grid</title>
+		<style>
+
+			
+		.img-gallery { 
+			width: 100%;
+			display: grid;
+			grid-template-columns:
+			repeat(auto-fill, minmax(150px,
+				1fr); 
+			 }
+			img {width: 100%;}
+		</style>
+	</head>
+	<body>
+
+		<div class="img-gallery">
+			<img src="http://placekitten.com/200/200">
+			<img src="http://placekitten.com/200/200">
+			<img src="http://placekitten.com/200/200">
+			<img src="http://placekitten.com/200/200">
+			<p>kittens are nice</p>
+			<img src="http://placekitten.com/200/200">
+			<img src="http://placekitten.com/200/200">
+			<img src="http://placekitten.com/200/200">
+		</div>
+
+
+
+	</body>
+	</html>
