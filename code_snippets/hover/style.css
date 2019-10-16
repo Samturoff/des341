@@ -26,6 +26,10 @@
     }
 
 
+/* END OF Regular Image Hover */
+
+
+
 /* Text over an images */
 
 .image-text {
@@ -68,3 +72,6 @@
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+
+/* END OF Text over an images */
