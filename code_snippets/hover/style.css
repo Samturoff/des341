@@ -14,7 +14,7 @@
         position: relative;
         display: inline-block;
     }
-    .cherry .img-top, .salad .img-top, .coffee .img-top, .cheese .img-top{
+.cherry .img-top, .salad .img-top, .coffee .img-top, .cheese .img-top{
         display: none;
         position: absolute;
         top: 0;
@@ -75,3 +75,19 @@
 
 
 /* END OF Text over an images */
+
+
+.hover-underline {
+  text-decoration: none;
+  margin-left: 400px;
+  font-size: 72px;
+  padding-bottom: 20px;
+}
+
+.hover-underline.active { color: red; }
+
+.hover-underline:hover {
+  border-bottom: 26px solid blue;
+}
+
+
