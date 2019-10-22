@@ -1,0 +1,60 @@
+Hello! 
+
+Great work on project one! The sites are looking good and we are getting ready for our first set of critiques Wednesday. I am super excited! There is a lot in here but please read this whole email!
+
+Today we did some HTML/CSS review and introduced Media Queries.
+
+RESPONSIVE PAGES WITH MEDIA QUERIES
+If you missed class or want a refresher, here is a video tutorial I put together:
+Here is a video on how to add media queries to your site in order to make them more responsive.
+https://youtu.be/pn4n8Gu-YVA
+
+ATTENDANCE REMINDER
+There were quite a few absences today and some students leaving way before the end of class. For those who did, thank you for emailing me to let me know you weren’t going to be in class today. It’s just good to be in the loop. 
+
+For all this is a reminder that the School of Art + Design has a department-wide attendance policy that’s pretty darn strict. It’s listed in the class Syllabus, which can always be found on the website: http://des341.com. It’s listed on the right-hand side of every page in the site. But here’s the direct link too: http://des341.com/assets/DES341-FA19-ARisse.pdf
+
+The GD attendance policy is:
+
+Attendance Policy Students in the Graphic Design Program are required to attend classes, for the full class duration and are expected to be punctual. Students not enrolled in the class are not permitted to attend. All classes in Graphic Design share the same attendance policy: up to two absences are allowed per course, per term. At three absences there is a 5% grade deduction of the final grade (ie. from an 85% to an 80%), at 4 absences, there is a 10% grade deduction of the final grade (ie. from an 85% to a 75%), and at 5 absences, a student will be automatically failed from the class. For students who intend to continue coming to class after an automatic failure, it will not change the final outcome of your grade, an F is an F.
+
+
+SITE CHECKLIST, SELF EVAL, and PRESENTATION SCRIPT
+I’ve decided to put these online instead of wasting paper, so I’ll get them out to you tomorrow.
+Until then, here is what’s on the site launch checklist to peek at: http://des341.com/assets/Site-Launch-Checklist.pdf
+
+The script should describe your process —  topic selection, moodboards, design comps, html and css. Talk about any other sites that influenced your project, your choice of palette and typography and how you see if complementing your content. You’ll have 5 minutes to present and then your peers will ask questions, make observations, etc.
+
+The self eval will be a shortish form describing what went well, what didn’t go so well, what resources would have helped, and how you’d do things differently in the future.
+
+I’ll also post the project two description tomorrow morning and follow up with another email.  I will also get back to those of you that emailed me today!
+
+FYI I won’t be around this Friday for office hours.
+
+POINTS AND GRADES
+Project one is worth 75
+Project two is worth 110
+Project 3 is worth 65
+
+This term the total points available are 250. Here’s how grades break down:
+
+Points	Grade
+225 - 250 - A
+200 - 224 - B
+175 - 199 - C
+150 - 174 - D
+125 - 149 - F
+
+POINTS BREAKDOWN FOR PROJECT ONE
+5 points - Homework 1 - HTML/CSS tutorials
+5 points - Homepage live on GitHub
+5 points - Project 1 mood board
+5 points - Project 1 wireframe
+20 points - Project 1 design comps
+5 points - Project 1 presentation
+10 points - Project 1 write-up script and self eval
+20 points - Project 1 final html/css live on github
+
+Nighty night,
+
+-Alanna
