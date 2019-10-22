@@ -25,6 +25,7 @@ h1 {
 	font-size: 72px;
 	color: white;
 	padding: 40px 0 0 40px;
+	white-space: nowrap;
 }
 h2 {
 	font-size: 48px;
@@ -37,7 +38,7 @@ p {
 nav ul {
 	list-style-type: none;
 	text-align: right;
-	margin-top: 240px;
+	margin-top: 340px;
 	margin-right: 40px;
 }
 nav li { 
@@ -100,6 +101,9 @@ footer {
 	}
 	header {
 		grid-template-columns: 1fr;
+	}
+	nav ul {
+		margin-top: 200px;
 	}
 
 }
