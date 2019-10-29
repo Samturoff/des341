@@ -121,7 +121,7 @@ main {
 .projects section, .students-body section {
 	grid-template-columns: 1fr 1fr;
 }
-
+.compet section {display: block;}
 
 .icon {width: 46px; margin-bottom: -12px;}
 
