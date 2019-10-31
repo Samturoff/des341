@@ -78,10 +78,13 @@ strong {text-transform: uppercase;}
 header, main { margin: 0; }
 
 header {
-	background-image: url(../images/circle-boat.jpeg);
+	background-image: url(../images/tyler-casey-ficbiwfOPSo-unsplash.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: 50% 50%;
+	background-position: 50% 35%;
+}
+.students-body header {
+	background-image: url('../images/omer-rana-ikCQLiMTokw-unsplash.jpg');
 }
 nav {
 	min-height: 60px;
@@ -129,12 +132,15 @@ main li {margin-bottom: 10px;}
 section {
 	display: grid;
 	grid-template-columns: 1fr 2fr;
-	grid-gap: 1.6em;
+	grid-gap: 3.6em;
 	margin-right: 0px;
 	padding: 40px;
 
 }
-
+hr {
+	margin: 30px 0;
+	border: 2px dashed #999;
+}
 .week { text-transform: uppercase; }
 article img {width: 100%;}
 aside {
