@@ -177,3 +177,18 @@ footer {
 	padding: 20px;
 }
 footer p { color: #fff; }
+
+
+
+@media only screen and (max-width: 768px) {
+	main {
+		grid-template-columns: 1fr;
+	}
+	.projects section, .students-body section {
+		grid-template-columns: 1fr;
+	}
+	section {
+		grid-template-columns: 1fr;
+	}
+
+}
