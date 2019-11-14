@@ -1,8 +1,8 @@
-# Hamburger Menu with Swooshy X close button
+#Hamburger Menu with Swooshy X close button
 
 [See the demo in action](http://des341.com/code_snippets/hamburger_nav_swooshy_x/index.html)
 
-## Instructions
+##Instructions
 
 1. [Watch the Video](https://youtu.be/j9vOw3PeUro).
 2. [Download the zip file](http://des341.com/code_snippets/hamburger_nav_swooshy_x/hamburger_nav_swooshy_x.zip). 

@@ -8,10 +8,10 @@ To use CSS3-animate-it in your website, simply drop `css3-animated.js` at the en
 
 ```html
 <head>
-  <link rel="stylesheet" href="animations.css">
+  <link rel="stylesheet" href="css/animations.css">
 </head>
 <body>
-<script type="text/javascript" src="/js/css3-animate-it.js"></script>
+<script type="text/javascript" src="/scripts/css3-animate-it.js"></script>
 </body>
 ```
 
