@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		
+.subpage-nav {
+	width: 60%;
+	margin: auto;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+.home-link { grid-column: 1 / -1;  }
+
+
+@media only screen and (min-width:768px) {
+	.subpage-nav {
+		width: 60%;
+		grid-template-columns: 1fr 1fr 1fr;
+	}
+	.subpage-nav .about-link { grid-column-start: 1;  }
+	.subpage-nav .home-link { grid-column-start: 2;  }
+	
+}
+
+	</style>
+</head>
+<body>
+	
+
+	<div class="subpage-nav">
+		 <a href="" class="home-link"><img src="http://placekitten.com/100/100"></a>
+		<a href="#" class="about-link">link 1</a><a href="#">link 1</a>
+
+	</div>
+</body>
+</html>
