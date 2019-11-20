@@ -9,7 +9,10 @@
 
 .food-hover img {width: 100%;}
 
-.overlay {border-radius: 50%;}
+.overlay {
+  border-radius: 50%;
+}
+
  .cherry, .salad, .coffee, .cheese {
         position: relative;
         display: inline-block;
@@ -39,7 +42,7 @@
   margin: auto;
 }
 
-.image-text .image {
+.image-text .text-hover {
   display: block;
   width: 300px;
   height: auto;
@@ -55,6 +58,8 @@
   opacity: 0;
   transition: .5s ease;
   background-color: #008CBA;
+  border-radius:50%;
+
 }
 
 .image-text:hover .overlay {
