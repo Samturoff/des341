@@ -5,10 +5,11 @@
 .moveMe {
     position: relative;
     animation-name :moveMe;
-    animation-duration: 4s;
+    animation-duration: 5s;
     animation-iteration-count: 3;
     animation-play-state: paused;
     font-size: 10vh;
+    text-decoration: none;
 }
 
 .moveMe:hover {
@@ -22,7 +23,9 @@
 
 @-webkit-keyframes moveMe {
     0%   {left:200px; top:0px;}
-    100% {left:-200px; top:0px;}
+    25% {left:-600px; top:0px;}
+    50%   {left:110vw; top:0px;}
+    100%   {left:200px; top:0px;}
 }
 
 

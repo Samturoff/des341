@@ -9,11 +9,12 @@
 
 .food-hover img {width: 100%;}
 
-
+.overlay {border-radius: 50%;}
  .cherry, .salad, .coffee, .cheese {
         position: relative;
         display: inline-block;
     }
+}
 .cherry .img-top, .salad .img-top, .coffee .img-top, .cheese .img-top{
         display: none;
         position: absolute;
