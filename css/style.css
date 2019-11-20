@@ -120,8 +120,8 @@ main {
 	display: grid;
 	grid-template-columns: 3fr 1fr;
 }
-
-.projects section, .students-body section {
+section img {margin-top:10px;}
+.resources section, .projects section, .students-body section {
 	grid-template-columns: 1fr 1fr;
 }
 .compet section {display: block;}
