@@ -1,0 +1,15 @@
+.kitten-slide img {width: 100%;}
+
+
+.slider {
+	width: 60%;
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border: 1px solid blue;
+}
+
+.kitten-slide img {width: 100%;}
+.kitten-slide { margin: 0 0;}
+
+.slick-slide { margin: 8px; width: 220px;}
