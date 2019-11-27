@@ -16,6 +16,15 @@ $('.autoplay').slick({
   autoplaySpeed: 3500,
 });
 
+$('.single-slide').slick({
+  slidesToShow: 1,
+  slidesToScroll: 1,
+  autoplay: true,
+  autoplaySpeed: 3500,
+  infinite: true,
+  dots: true
+});
+
 $('.my-slick').slick({
   dots: false,
   infinite: true,
