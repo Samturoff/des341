@@ -59,7 +59,7 @@ body {
 @keyframes flightpathA {
     0%   {left:-315px; top:210px;}
     50%  {left:300px; top:625px;}
-    100% {left:1200px; top:500px;}
+    100% {left:1200px; top:500px; opacity: 0;}
 }
 
 .flyB {
