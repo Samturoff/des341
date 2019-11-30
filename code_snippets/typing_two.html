@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Typewriter</title>
-	<style>
+<style>
 		
 /* Landing Page Typing */
 #text {
@@ -30,7 +30,9 @@
   }
 }
 
-	</style>
+/* if you want to have a different cursor color from the text, include this and change the color to what you want */
+.cursor::after { color: black; }
+</style>
 </head>
 <body>
   <p id="text">
@@ -68,10 +70,8 @@ function typing(p) {
     );
   }
 }
-$(document).ready(function() {
-  typing("text");
-  getSlides(slideIndex);
-});
+
+typing("text");
 
 </script>
 </body>
