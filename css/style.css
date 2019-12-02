@@ -142,6 +142,7 @@ hr {
 	border: 2px dashed #999;
 }
 .week { text-transform: uppercase; }
+.blurb { margin-bottom: 6px; margin-top: 42px; }
 article img {width: 100%;}
 aside {
 	background-image: url(../images/swirl_pattern.png);
