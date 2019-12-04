@@ -29,10 +29,10 @@ $('.my-slick').slick({
   dots: false,
   infinite: true,
   speed: 300,
-  slidesToShow: 3,
+  slidesToShow: 4,
   slidesToScroll: 1,
   autoplay: true,
-  autoplaySpeed: 3500,
+  autoplaySpeed: 2500,
   responsive: [
     {
       breakpoint: 1024,
