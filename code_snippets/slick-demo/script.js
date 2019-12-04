@@ -22,7 +22,8 @@ $('.single-slide').slick({
   autoplay: true,
   autoplaySpeed: 3500,
   infinite: true,
-  dots: true
+  dots: true,
+  draggable: false
 });
 
 $('.my-slick').slick({
