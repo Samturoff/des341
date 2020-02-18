@@ -9,24 +9,23 @@
 
 .food-hover img {width: 100%;}
 
-.overlay {
-  border-radius: 50%;
-}
+
 
  .cherry, .salad, .coffee, .cheese {
         position: relative;
         display: inline-block;
-    }
 }
+
+
 .cherry .img-top, .salad .img-top, .coffee .img-top, .cheese .img-top{
         display: none;
-        position: absolute;
-        top: 0;
-        left: 0;
-        z-index: 99;
+
     }
     .cherry:hover .img-top, .salad:hover .img-top, .coffee:hover .img-top, .cheese:hover .img-top {
         display: inline;
+        position: absolute;
+        top: 0;
+        left: 0;
     }
 
 
@@ -42,6 +41,9 @@
   margin: auto;
 }
 
+.image-text img {
+  width: 100%;
+}
 .image-text .text-hover {
   display: block;
   width: 300px;
@@ -58,7 +60,6 @@
   opacity: 0;
   transition: .5s ease;
   background-color: #008CBA;
-  border-radius:50%;
 
 }
 
